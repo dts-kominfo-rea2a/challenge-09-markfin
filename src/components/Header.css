@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-width: 75vw;
+  margin: 20px auto;
+  padding: 0;
+}
+
+.header h1 {
+  font-size: 3em;
+  color: black;
+  text-align: center;
+  margin-bottom: -20px;
+}
+
+.header h5 {
+  font-size: 1em;
+  color: black;
+  text-align: center;
+}
+
+.line {
+  color: pink;
+  text-align: center;
+  border-bottom: 2px dotted black;
+  width: 100%;
+}
